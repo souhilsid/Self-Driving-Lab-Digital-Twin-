@@ -19,7 +19,6 @@ This directory contains reviewer-facing material supporting the CEID colour-mixi
 ## Pending Before Final Submission
 
 - Deposit a versioned release in Zenodo and insert the DOI.
-- Deploy and independently test the reviewer WebGL build.
-- Add the reviewer URL and access instructions.
+- Keep the deployed reviewer WebGL build synchronized with the archived manuscript release.
 - Add the formal CEID/hardware access contact.
 - Record the balance model, readability, calibration status, water temperature, and environmental conditions.

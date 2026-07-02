@@ -19,7 +19,7 @@ The pseudocode-only references are available for [CEID](docs/pseudocode/CEID.md)
 
 The CEID engine and hardware implementation are proprietary and are not included in the public repository. The public records provide the target, constraints, objective definition, complete primary CEID trial trace, measured dispensing-validation data, and pseudocode-only workflow notes required to inspect the reported workflow.
 
-The repository excludes implementation source code for both CEID and Unity, as requested for review. A browser-based WebGL build will be linked here after deployment and independent testing.
+The repository excludes implementation source code for both CEID and Unity. The browser-based reviewer build is available at https://souhilsid.github.io/Self-Driving-Lab-Digital-Twin-/ and requires no installation or access code.
 
 ## 4. Security
 

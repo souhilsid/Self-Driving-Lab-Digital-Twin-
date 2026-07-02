@@ -5,6 +5,7 @@ This repository provides the reviewer-facing documentation, pseudocode, and expe
 ## Reviewer Start Here
 
 - [Reviewer guide](REVIEWER_GUIDE.md)
+- [Launch the WebGL digital twin](https://souhilsid.github.io/Self-Driving-Lab-Digital-Twin-/)
 - [Manuscript author-note replacements](docs/paper/author-note-replacements.md)
 - [Paper evidence and editable Word documents](docs/paper/README.md)
 - [CEID and Unity pseudocode](docs/pseudocode/README.md)
@@ -40,7 +41,6 @@ Excluded:
 - Proprietary physical-hardware implementation details.
 - Commercial Unity assets, large 3D models, and redistributable third-party packages.
 - LiveKit API secrets, participant tokens, local environment files, and token bundles.
-- A deployed WebGL reviewer build, which is still pending.
 
 This package is intended for manuscript review and workflow inspection. It does not include implementation source code for CEID or Unity; only concise pseudocode and the supporting experimental records are provided.
 
@@ -48,4 +48,4 @@ This package is intended for manuscript review and workflow inspection. It does 
 
 The pseudocode and documentation in this repository are released under the [MIT License](LICENSE). The CEID engine, Unity implementation source, and hardware implementation are not publicly distributed. Requests for supervised CEID, digital-twin binary, or hardware access should be made through the corresponding author or AISCIA Informatics.
 
-The Zenodo DOI, reviewer WebGL URL, and formal access contact will be added when those resources are available.
+The reviewer WebGL build is deployed at https://souhilsid.github.io/Self-Driving-Lab-Digital-Twin-/. The Zenodo DOI and formal access contact will be added when available.
