@@ -1,0 +1,5 @@
+Build/*.data binary
+Build/*.wasm binary
+Build/*.js binary
+TemplateData/*.png binary
+TemplateData/*.ico binary
