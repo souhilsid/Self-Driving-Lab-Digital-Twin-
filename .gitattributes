@@ -1,7 +1,11 @@
 *.docx binary
 *.png binary
 *.pdf binary
+*.gz binary
+*.wasm binary
+*.data binary
 *.csv text eol=lf
 *.json text eol=lf
+*.js text eol=lf
 *.cs text eol=lf
 *.md text eol=lf
