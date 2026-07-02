@@ -1,0 +1,4 @@
+target_volume_ul,replicate_1_mg,replicate_2_mg,replicate_3_mg,replicate_4_mg,replicate_5_mg,n,mean_mass_mg,sample_sd_mg,cv_percent,mean_volume_ul
+200,198.9,199.4,199.7,200.0,200.5,5,199.7,0.6042,0.3026,200.1002
+500,497.6,498.3,498.9,499.5,500.2,5,498.9,1.0124,0.2029,499.8998
+1000,995.4,996.9,997.8,998.7,1000.2,5,997.8,1.8125,0.1816,999.7996

@@ -1,0 +1,6 @@
+﻿"strategy","family","total_rows","new_physical_experiments","historical_rows","best_physical_frechet","best_trial","note"
+"CEID","model-based closed-loop","24","24","0","0.014524","16","Final incumbent confirmed by remeasurement."
+"Grid","deterministic space-filling","24","16","8","0.017236111111111","18","Contains eight imported historical rows."
+"Random","non-adaptive random","23","15","8","0.0593194444444444","14","Incomplete 23-row export; contains eight imported historical rows."
+"Language-model guided","strict-blind active strategy","24","16","8","0.045","19","Contains eight imported historical rows."
+"Language-model guided resumed","resumed active strategy","24","6","18","0.017375","23","Resumed run; not an independent 24-experiment comparison."
