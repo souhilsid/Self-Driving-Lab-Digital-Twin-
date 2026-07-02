@@ -173,7 +173,7 @@ The authors declare that there are no patents or patent applications related to 
 
 Manuscript-ready text:
 
-> Pseudocode for CEID and the Unity digital-twin workflow, together with the sanitized closed-loop trace, target spectrum, gravimetric validation data, and manuscript-supporting files, is available at https://github.com/souhilsid/Self-Driving-Lab-Digital-Twin- under the MIT License. A versioned archival release of these materials will be deposited in Zenodo upon acceptance; the corresponding DOI will be added to the final manuscript. CEID implementation source, Unity implementation source, and the physical hardware implementation are not publicly distributed. Access for verification or non-commercial research may be requested from AISCIA Informatics through the corresponding author and is subject to approval and an appropriate access agreement. A browser-based WebGL build of the digital twin is available at https://souhilsid.github.io/Self-Driving-Lab-Digital-Twin-/.
+> Pseudocode for CEID and the Unity digital-twin workflow, together with the sanitized closed-loop trace, target spectrum, gravimetric validation data, manuscript-supporting files, and an archived Unity WebGL build folder, is available at https://github.com/souhilsid/Self-Driving-Lab-Digital-Twin- under the MIT License. A versioned archival release of these materials will be deposited in Zenodo upon acceptance; the corresponding DOI will be added to the final manuscript. CEID implementation source, Unity implementation source, and the physical hardware implementation are not publicly distributed. Access for verification or non-commercial research may be requested from AISCIA Informatics through the corresponding author and is subject to approval and an appropriate access agreement. A browser-based WebGL build of the digital twin is available at https://souhilsid.github.io/Self-Driving-Lab-Digital-Twin-/, with the downloadable build folder archived at https://github.com/souhilsid/Self-Driving-Lab-Digital-Twin-/tree/main/digital_twin_sdl_build.
 
 Required final replacements before submission:
 
@@ -181,6 +181,7 @@ Required final replacements before submission:
 | --- | --- |
 | Zenodo archive | `[insert final Zenodo DOI]` |
 | Reviewer WebGL build | `https://souhilsid.github.io/Self-Driving-Lab-Digital-Twin-/` (no installation or access code required) |
+| Downloadable WebGL build folder | `https://github.com/souhilsid/Self-Driving-Lab-Digital-Twin-/tree/main/digital_twin_sdl_build` |
 | CEID access request | `[insert corresponding-author or AISCIA contact email]` |
 | Archived release version | `[insert version/tag and commit identifier]` |
 | Hardware access request | `[insert request procedure or contact URL]` |
@@ -191,7 +192,7 @@ No CERN Open Hardware Licence should be claimed because the hardware is propriet
 
 Manuscript-ready text:
 
-> A reviewer-accessible binary of the digital twin is available as a browser-based WebGL build at https://souhilsid.github.io/Self-Driving-Lab-Digital-Twin-/. No installation or access code is required. Reviewers can open the URL in a WebGL-compatible desktop browser. The demonstration includes the digital-twin interface and representative closed-loop workflow but does not provide unrestricted access to the proprietary CEID service or physical robotic hardware. Requests for supervised access to those components may be directed to `[contact email]`.
+> A reviewer-accessible binary of the digital twin is available as a browser-based WebGL build at https://souhilsid.github.io/Self-Driving-Lab-Digital-Twin-/. No installation or access code is required. Reviewers can open the URL in a WebGL-compatible desktop browser. The corresponding Unity WebGL build folder is archived at https://github.com/souhilsid/Self-Driving-Lab-Digital-Twin-/tree/main/digital_twin_sdl_build. The demonstration includes the digital-twin interface and representative closed-loop workflow but does not provide unrestricted access to the proprietary CEID service or physical robotic hardware. Requests for supervised access to those components may be directed to `[contact email]`.
 
 ## 8. Primary Supporting Records
 
